@@ -1,0 +1,19 @@
+{
+  "name": "session-activities",
+  "version": "1.0.0",
+  "description": "This repo is for the activities that we do in the session",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHassanTariq/session-activities.git"
+  },
+  "author": "TinTash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHassanTariq/session-activities/issues"
+  },
+  "homepage": "https://github.com/MHassanTariq/session-activities#readme"
+}
